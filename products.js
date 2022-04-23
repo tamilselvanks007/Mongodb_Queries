@@ -1,4 +1,4 @@
-//product insert
+// Inserting products
 db.products.insertMany([
   {
     id: "1",
